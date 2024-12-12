@@ -1,0 +1,8 @@
+---
+# BEGIN
+spring:
+  datasource:
+    password: t1qOEknG2gsCHXeEHpVby8RCG60QbRuY
+    url: postgresql://postgressy_user:t1qOEknG2gsCHXeEHpVby8RCG60QbRuY@dpg-ctddtt8gph6c73es1fkg-a/postgressy
+    username: postgressy_user
+# END
