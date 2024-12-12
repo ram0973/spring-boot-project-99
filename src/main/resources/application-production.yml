@@ -2,7 +2,7 @@
 # BEGIN
 spring:
   datasource:
-    password: t1qOEknG2gsCHXeEHpVby8RCG60QbRuY
-    url: postgresql://postgressy_user:t1qOEknG2gsCHXeEHpVby8RCG60QbRuY@dpg-ctddtt8gph6c73es1fkg-a/postgressy
-    username: postgressy_user
+    password: ycNwzWDRxaCUogU6pFpRaNIEGg7m9CW6
+    url: postgresql://web:ycNwzWDRxaCUogU6pFpRaNIEGg7m9CW6@dpg-ctdefupopnds73akha00-a/web_9g4d
+    username: web
 # END
