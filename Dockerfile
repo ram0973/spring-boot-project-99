@@ -15,7 +15,7 @@ COPY build.gradle.kts .
 COPY settings.gradle.kts .
 COPY gradlew .
 
-RUN ./gradlew --no-daemon dependencies
+#RUN ./gradlew --no-daemon dependencies
 
 #COPY lombok.config .
 COPY src src
